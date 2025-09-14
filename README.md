@@ -1,1 +1,6 @@
-# article-test
+# このリポジトリ名は、article-testで記事用のテストリポジトリです。
+
+
+
+
+
